@@ -3,6 +3,7 @@
     "description": "This Package helps developers to work with Jalali Datetime class for Laravel Framework PHP",
     "license": "MIT",
     "type": "library",
+    "version": 8.6,
     "authors": [
         {
             "name": "Nasser Hekmati",
